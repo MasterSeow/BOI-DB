@@ -1,0 +1,329 @@
+1
+BASEMENT
+Infinite basements - Disables achievements
+The Basement repeats infinitely.
+
+2
+KEEPAWAY
+Tricky pickups - Disables achievements
+Pickups mimic Isaac's movements.
+
+3
+G0NES00N
+Pickups time out
+Pickups quickly fade. This includes pedestal items, shop purchases, devil deals, and the Cathedral/Sheol boss chest.
+
+4
+FREE2PAY
+F2P version - Disables achievements
+Isaac starts with 69 coins, but all items and consumables must be bought.
+
+5
+PAC1F1SM
+Pacifism - Disables achievements
+Enemies do not take damage. All doors stay open. When in a boss room, the boss's health slowly drains.
+
+6
+C0MEBACK
+Enemies respawn - Disables achievements
+Enemies, including bosses, respawn once Isaac leaves the room. Completing a room multiple times does not yield additional pickups.
+
+7
+N0RETVRN
+Point of no return
+Boss rooms lock Isaac in, similar to the Mom fight.
+
+8
+BRWNSNKE
+Poopy trail - Disables achievements
+Isaac leaves a trail of poop behind him as he walks.
+
+9
+ALM1GHTY
+Dog mode - Disables achievements
+Isaac is invincible.
+
+10
+K1DSM0DE
+Kids' co-op mode - Disables achievements
+Makes co-op babies invincible.
+
+11
+DARKNESS
+Permanent darkness
+Permanent Curse of Darkness.
+
+12
+LABYRNTH
+Inescapable labyrinth - Disables achievements
+Permanent Curse of the Labyrinth.
+
+13
+L0ST
+Hopelessly lost
+Permanent Curse of the Lost.
+
+14
+VNKN0WN
+Forever unknown
+Permanent Curse of the Unknown.
+
+15
+MAZE
+Unending maze
+Permanent Curse of the Maze.
+
+16
+BL1ND
+Incurable blindness
+Permanent Curse of the Blind.
+
+17
+CVRSED
+Horrible curse
+Permanent Curse of the Cursed.
+
+18
+N1TEL1TE
+Illuminate darkness - Disables achievements
+Provides immunity to Curse of Darkness.
+
+19
+THREAD
+Escape the labyrinth - Disables achievements
+Provides immunity to Curse of the Labyrinth.
+
+20
+F0VND
+I once was lost - Disables achievements
+Provides immunity to Curse of the Lost.
+
+21
+N0W1KN0W
+Know the unknown - Disables achievements
+Provides immunity to Curse of the Unknown.
+
+22
+PATHF1ND
+Stay out of the maze - Disables achievements
+Provides immunity to Curse of the Maze.
+
+23
+BRA1LLE
+Heal the blind - Disables achievements
+Provides immunity to Curse of the Blind.
+
+24
+BLCKCNDL
+Total curse immunity - Disables achievements
+Provides immunity to all curses.
+
+25
+HARDHARD
+Full heart damage
+Isaac takes a full heart of damage from all sources.
+
+26
+BRTLB0NS
+Twelve heart damage
+Isaac takes twelve hearts of damage from all sources.
+
+27
+D0NTST0P
+Don't stop moving
+Isaac takes damage if he stops moving.
+
+28
+THEGH0ST
+Damage on a timer
+Every 45 seconds, a ticking will begin, and after 5 seconds, Isaac will take 1/2 heart of damage. Damage increases to 1 heart in the womb and below. Having invincibility during the time when damage should be inflicted prevents the damage.
+
+29
+30M1N1TS
+30 minute limit
+Gives a time limit of 30 minutes to beat the game. When the timer hits 29:45, a timer starts ticking, and after 30:00, Isaac takes damage every second.
+
+30
+1CESKATE
+Ice physics
+Makes the ground slippery.
+
+31
+BRAVERY
+Bravery
+Isaac fires tears in the same direction that he moves. Removes the normal ability to fire tears.
+
+32
+C0WRD1CE
+Cowardice
+Isaac fires tears in the opposite direction that he moves. Removes the normal ability to fire tears.
+
+33
+DRAWKCAB
+Reversed controls
+All movement and firing keys are reversed.
+
+34
+AX1SALGN
+Axis aligned controls
+Isaac cannot move diagonally.
+
+35
+CAM0K1DD
+Camouflage player
+Isaac blends into the ground.
+
+36
+CAM0F0ES
+Camouflage enemies
+All enemies blend into the ground.
+
+37
+CAM0DR0P
+Camouflage stuff
+Pickups and items blend into the ground.
+
+38
+WH0AWHAT
+Camouflage everything!
+Isaac, enemies, pickups, and items all blend into the ground.
+
+39
+1MN0B0DY
+Invisible player
+Isaac becomes completely invisible.
+
+40
+BL1NDEYE
+Invisible enemies
+All enemies become completely invisible.
+
+41
+THEBLANK
+The blank
+Isaac has no face.
+
+42
+KAPPA
+Grayscale
+Isaac turns gray.
+
+43
+H0H0H0H0
+Christmas
+Isaac wears a Christmas hat.
+
+44
+T0PHEAVY
+Big head mode
+Isaac's head is large.
+
+45
+T1NYD0ME
+Tiny head mode
+Isaac's head is small.
+
+46
+PTCHBLCK
+Black body
+Isaac and his tears turn completely black.
+
+47
+TEARGL0W
+Glowing tears - Disables achievements
+Isaac's tears glow.
+
+48
+BL0000DY
+Extra gore
+Makes a lot more blood appear after enemies die.
+
+49
+B00BT00B
+Cathode rays!
+Applies a filter that makes the game look like it's being played through a cathode ray tube.
+
+50
+DYSLEX1A
+Dyslexia
+All in-game text is rearranged.
+
+51
+KEEPTRAK
+No HUD
+Removes the HUD entirely. This affects the map, health, consumables, held items, pickup text, floor names, and more.
+
+52
+MED1C1NE
+Mystery pills
+All pill names and descriptions show ???.
+
+53
+FACED0WN
+Mystery cards
+All card names and descriptions show ???.
+
+54
+CHAMP10N
+Champion enemies - Disables achievements
+All enemies turn into champions if possible.
+
+55
+C0CKFGHT
+Charmed enemies - Disables achievements
+All enemies are permanently charmed.
+
+56
+C0NFETT1
+Confused enemies - Disables achievements
+All enemies are permanently confused.
+
+57
+FEARM1NT
+Scaredy enemies - Disables achievements
+All enemies are permanently scared.
+
+58
+FRA1DN0T
+Skittish enemies - Disables achievements
+Every few seconds, all enemies become scared.
+
+59
+CLSTRPH0
+Asocial enemies - Disables achievements
+All enemies are permanently charmed and scared.
+
+60
+FARTSNDS
+Farty sounds
+All sound effects are replaced with farts.
+
+61
+SL0W4ME2
+Movement tempo
+Music speed is affected by Isaac's walking speed.
+
+62
+HARTBEAT
+Health tempo
+The lower Isaac's health is, the slower the music is.
+
+63
+ANDANTE
+Downtempo
+Music is slowed down.
+
+64
+LARGHET0
+Downtempo--
+Music is significantly slowed down.
+
+65
+ALLEGR0
+Uptempo
+Music is sped up.
+
+66
+PREST0
+Uptempo++
+Music is significantly sped up.

@@ -1,0 +1,634 @@
+1
+Swallowed Penny
+Gulp!
+Upon taking damage, Isaac drops a penny.
+
+2
+Petrified Poop
+It feels lucky?
+Greatly increases the chances of a pickup dropping when destroying poop.
+
+3
+AAA Battery
+Trickle charge
+Automatically recharges the last energy slot of an activated item, effectively reducing recharge rates by one.
+
+4
+Broken Remote
+It's broken
+Triggers the Teleport effect whenever an activated item is used.
+
+5
+Purple Heart
+Challenge up
+Increases chance for challenge rooms to be boss challenge rooms / Causes more enemy champions to spawn.
+
+6
+Broken Magnet
+It kinda works!
+Pulls coins towards Isaac, but ignores other pickups.
+
+7
+Rosary Bead
+Faith up
+Increases the chance of Angel Rooms and Eternal Hearts appearing.
+
+8
+Cartridge
+I remember these
+Chance to trigger The Gamekid effect upon taking damage.
+
+9
+Pulse Worm
+Wub wub!
+Shots pulse in size.
+
+10
+Wiggle Worm
+Wiggle waggle!
+Gives Isaac's shots a wave-like trajectory.
+
+11
+Ring Worm
+Woop woop
+Gives Isaac spinning shots.
+
+12
+Flat Worm
+Blub blub!
+Isaac's tears take on an oblong appearance. They also push enemies back.
+
+13
+Store Credit
+YES!
+The next store purchase is free. The trinket disappears on purchase.
+
+14
+Callus
+Your feet feel stronger
+Prevents damage from creep and spikes.
+
+15
+Lucky Rock
+There's something inside it
+Each obstacle destroyed drops one coin.
+
+16
+Mom's Toenail
+???
+Mom's foot randomly stomps down somewhere in the room. 1 minute intervals.
+
+17
+Black Lipstick
+Evil Up
+Increases the chance of black hearts appearing.
+
+18
+Bible Tract
+Faith up
+Increases chance for Eternal Hearts to spawn.
+
+19
+Paper Clip
+Master of lockpicking
+Golden Chests can be opened without using a key.
+
+20
+Monkey Paw
+Wish granted
+If the character has half a heart after taking damage, it drops a Black Heart. The effect can trigger up to three times, after which the trinket will disappear.
+
+21
+Mysterious Paper
+???
+Has a chance to replicate the effects of A Missing Page, The Polaroid, The Negative, or Missing Poster.
+
+22
+Daemon's Tail
+Evil up
+Most non-specific heart drops become black hearts, but heart drops are significantly less common.
+
+23
+Missing Poster
+???
+If Isaac dies in a Sacrifice Room, a puzzle piece will appear on his last will (and unlocks The Lost). Revives Isaac as The Lost if unlocked. The Missing Poster then disappears.
+
+24
+Butt Penny
+Wealth of gas
+Isaac will fart when he picks up a coin.
+
+25
+Mysterious Candy
+Uh-oh!
+Isaac farts or poops at random intervals. Getting hit can also trigger the effect.
+
+26
+Hook Worm
+Zip zoop!
+Tears move shifting left to right forming a path of right angles. +10 to Range (effective range remains about the same).
+
+27
+Whip Worm
+Wooosh!
+Increases shot speed by 0.5, increasing effective range.
+
+28
+Broken Ankh
+Eternal life?
+When held, Isaac has a chance to be revived as ???. Can occur multiple times in the same run.
+
+29
+Fish Head
+It stinks
+Spawns a blue fly every time Isaac takes damage.
+
+30
+Pinky Eye
+Poison shots
+Adds a 10% chance to shoot a poison tear, dealing damage over time when inflicted.
+
+31
+Push Pin
+Piercing shots
+Adds a 10% chance to shoot a piercing and spectral tear.
+
+32
+Liberty Cap
+Touch Fuzzy, Get Dizzy
+Grants a chance of triggering Mini Mush, Odd Mushroom (Large), Odd Mushroom (Thin) or The Compass effects for the current room upon entering it.
+
+33
+Umbilical Cord
+Fetal Protection
+When Isaac's health is brought to half a red heart and no soul hearts, a Little Steven familiar spawns for the current room.
+
+34
+Child's Heart
+It calls out to its brothers.
+Increases the chance of a Heart dropping after clearing a room, and the chance of finding a Heart when opening a Chest.
+
+35
+Curved Horn
+DMG up
+Increases damage by 2.
+
+36
+Rusted Key
+It feels lucky?
+Improves the chances of finding keys and golden chests.
+
+37
+Goat Hoof
+Speed up
+Increases speed by 0.15.
+
+38
+Mom's Pearl
+It emanates purity
+Grants a secondary 10% chance of any non-specific heart drop turning into a soul heart.
+
+39
+Cancer
+Yay, cancer!
+-2 Tear Delay (effectively increases firerate of tears).
+
+40
+Red Patch
+Your rage grows
+Grants a chance of increasing damage by 1.8 for the current room upon taking damage.
+
+41
+Match Stick
+Tastes like burning
+Increases the chance of Bombs dropping after clearing a room, and the chance of finding Bombs when opening a Chest.
+
+42
+Lucky Toe
+Luck up!
+Increases Luck by 1.
+
+43
+Cursed Skull
+Cursed?
+If Isaac has less than one full red heart after taking damage, he will be immediately teleported to the last cleared room he was in.
+
+44
+Safety Cap
+Don't swallow it
+Improves the chance of Pills dropping after clearing a room, and chance of finding a Pill when opening a Chest.
+
+45
+Ace of Spades
+Luck of the draw
+Increases the chance of tarot cards or playing cards dropping after clearing a room, and the chance of finding cards when opening a chest.
+
+46
+Isaac's Fork
+Consume thy enemy
+A chance to heal Isaac for 1/2 a red heart upon clearing a room.
+
+48
+A Missing Page
+It glows with power
+5% chance to induce The Necronomicon's effect upon taking damage.
+
+49
+Bloody Penny
+Wealth of health
+Gives a 50% chance to drop a half heart when money is collected.
+
+50
+Burnt Penny
+Wealth of chaos
+Gives a 50% chance to drop a bomb when money is collected.
+
+51
+Flat Penny
+Wealth of answers
+Gives a 50% chance of spawning a key upon collecting a penny.
+
+52
+Counterfeit Penny
+Wealth of wealth
+Gives a 50% chance of increasing the value of every coin pickup by one.
+
+53
+Tick
+Well, that's not coming off
+Drain 15% health of each enemy with more than 60 HP (ie. most bosses). Also restores one red heart of Isaac whenever he enters an uncleared boss room. The Tick cannot be swapped out for another trinket.
+
+54
+Isaac's Head
+Dead friend
+Gives the player Isaac's severed head as a tear-firing familiar. Fires piercing tears.
+
+55
+Maggy's Faith
+Faith's reward
+Gives an eternal heart at the start of every floor.
+
+56
+Judas' Tongue
+Payment Received
+Items in the Devil Room only cost 1 heart. Soul heart trades still cost 3 Soul hearts.
+
+57
+???'s Soul
+Imaginary Friend
+Spawns a familiar that floats slowly around the room on a pattern similar to The Peeper and fires spectral and homing tears.
+
+58
+Samson's Lock
+Your rage grows
+1/15 chance to increase damage by 0.5 for the current room each time an enemy dies.
+
+59
+Cain's Eye
+May you see your destination
+When starting a floor, 25% chance to get the The Compass effect for the duration of a floor.
+
+60
+Eve's Bird Foot
+Revenge from beyond
+5% chance to spawn a Dead Bird familiar for the current room each time an enemy dies.
+
+61
+The Left Hand
+The left-hand path reaps dark rewards
+Replaces brown chests and golden chests with red chests.
+
+62
+Shiny Rock
+It shines for its brothers
+Tinted rocks and rocks with Crawl Spaces will flash white every 10 seconds.
+
+63
+Safety Scissors
+Fuse Cutter
+Troll bombs turn into Bomb pickups before they explode. Mega troll bombs turn into 1+1 free bombs before they explode.
+
+64
+Rainbow Worm
+Bleep Bloop Blop
+Isaac's tears gain a worm effect that changes every 3 seconds.
+
+65
+Tape Worm
+Floooooooooop!
+Doubles Isaac's range and halves his tear height.
+
+66
+Lazy Worm
+Pft
+Tear shot speed is greatly reduced.
+
+67
+Cracked Dice
+You feel cursed... kinda.
+Whenever Isaac gets hit, there is a chance that the effect of The D6, D8, D12, or D20 gets activated.
+
+68
+Super Magnet
+It Pulls
+Pulls enemies and pickups towards Isaac.
+
+69
+Faded Polaroid
+You feel faded
+Occasionally causes Isaac to blend into the ground, which briefly confuses all enemies in the room.
+
+70
+Louse
+Itchy, tasty...
+Occasionally spawns a Blue Spider.
+
+71
+Bob's Bladder
+Creepy bombs
+Leaves a pool of green creep under all bombs Isaac places, which damages enemies that walk over it.
+
+72
+Watch Battery
+Lil charge
+Increased chance of batteries spawning. Has a chance to add an extra charge to Isaac's activated item upon completing a room.
+
+73
+Blasting Cap
+Pop! Pop!
+Exploding bombs have a chance to drop another bomb pickup.
+
+74
+Stud Finder
+The ground below feels hollow...
+Increases the chance to find a Crawl Space.
+
+75
+Error
+Effect not found?
+Gives a random trinket effect each room.
+
+76
+Poker Chip
+It's double down time!
+Chests have a 50% chance of paying out with extra pickups and a 50% chance of paying out with nothing or enemies.
+
+77
+Blister
+Bounce back!
+Increases knockback of tears.
+
+78
+Second Hand
+Extended stat effect time!
+Increases the time that status effects stay on enemies.
+
+79
+Endless Nameless
+I'm stuck in a loop...
+When Isaac uses a pill, card, or rune, there is a chance to spawn another one of the same type.
+
+80
+Black Feather
+With darkness comes power
+Increases Isaac's damage for possessing certain evil items.
+
+81
+Blind Rage
+Blind to damage
+Increases invincibility time after getting hit.
+
+82
+Golden Horse Shoe
+Feel lucky?
++15% chance for a Treasure Room with two items to spawn.
+
+83
+Store Key
+Stores are open
+Automatically opens all Shops.
+
+84
+Rib of Greed
+Feels greedy
+Prevents Greed and Super Greed from appearing in Shops and Secret Rooms.
+
+85
+Karma
+Karma up
+Donating to a donation machine has a chance to heal Isaac for a full red heart or spawn a beggar. Increases the chance that donating to a Donation Machine will increase Isaac's luck.
+
+86
+Lil Larva
+The poop is moving...
+Spawns a blue fly from every pile of poop Isaac destroys.
+
+87
+Mom's Locket
+You feel her love
+Grants half a red heart each time a key is used. Converts half red heart pickups into full red hearts.
+
+88
+NO!
+Never again!
+Removes all active items from every item pool.
+
+89
+Child Leash
+Keep your friends close...
+Causes familiars to stay closer to each other.
+
+90
+Brown Cap
+Fartoom!
+Poop will explode after being destroyed.
+
+91
+Meconium
+Eww
+Poop has a chance to turn into black poop.
+
+92
+Cracked Crown
+Stat booster
+Grants extra stat upgrades based on Isaac's passive items that increase stats, +0.2 tears, -1 tear delay.
+
+93
+Used Diaper
+You stink
+Grants the Skatole effect in some rooms.
+
+94
+Fish Tail
+It also stinks!
+Items and trinkets that generate blue flies or blue spiders will generate twice as many.
+
+95
+Black Tooth
+It looks dead
+Adds a chance to fire a black tooth that poisons enemies.
+
+96
+Ouroboros Worm
+Foop foop!
+Tears travel in a large spiral pattern and become spectral.
+
+97
+Tonsil
+Sick...
+When hit, there is a small chance a removed tonsil familiar starts following Isaac, blocking enemy shots.
+
+98
+Nose Goblin
+Seems magic...
+Chance to fire a booger that sticks to enemies and deals damage over time.
+
+99
+Super Ball
+Boing!
+Makes tears have a chance to bounce off enemies and obstacles.
+
+100
+Vibrant Bulb
+It needs power
+Provides a boost to all stats when Isaac's active item is fully charged.
+
+101
+Dim Bulb
+I think it's broken
+Provides a boost to all stats when Isaac's active item is completely uncharged.
+
+102
+Fragmented Card
+Double moon
+Makes two Secret Rooms spawn on each floor.
+
+103
+Equality!
+=
+Turns pickups into their doubled versions while Isaac's numbers of coins, bombs, and keys are equal.
+
+104
+Wish Bone
+Make a wish
+Taking damage has a small chance to destroy the trinket and spawn a random item.
+
+105
+Bag Lunch
+I wonder what it is
+Taking damage has a small chance to destroy the trinket and spawn Lunch.
+
+106
+Lost Cork
+Uncorked
+Increases the radius of any creep produced by Isaac.
+
+107
+Crow Heart
+Drain me
+Red heart damage will be taken before soul and black heart damage.
+
+108
+Walnut
+That's a hard nut to crack!
+Taking damage has a small chance to destroy the trinket and spawn various pickups.
+
+109
+Duct Tape
+Stuck!
+Stops Isaac's familiars from moving.
+
+110
+Silver Dollar
+Feels lucky...
+Shops appear in Chapter 4.
+
+111
+Bloody Crown
+Drips with blood...
+Treasure Rooms appear in Chapter 4.
+
+112
+Pay to Win
+...
+Restock boxes always spawn in Item Rooms.
+
+113
+Locust of War
+I bring War
+Upon entering a room with enemies, spawns a Red Locust which detonates upon impact with enemies.
+
+114
+Locust of Pestilence
+I bring Pestilence
+Upon entering a room with enemies, spawns a Green Locust which damages and poisons enemies.
+
+115
+Locust of Famine
+I bring Famine
+Upon entering a room with enemies, spawns a Yellow Locust that damages and slows enemies.
+
+116
+Locust of Death
+I bring Death
+Upon entering a room with enemies, spawns a Black Locust that does a very high amount of damage.
+
+117
+Locust of Conquest
+I bring Conquest
+Upon entering a room with enemies, spawns 2-5 White Locusts which damage enemies.
+
+118
+Bat Wing
+They are growing...
+Upon killing an enemy, has a chance to grant flight for the rest of the room.
+
+119
+Stem Cell
+Regen!
+Heals for half a heart upon traveling to the next floor.
+
+120
+Hairpin
+Danger charge
+Fully recharges Isaac's active item upon entering a boss fight.
+
+121
+Wooden Cross
+My faith protects me
+Grants a Holy Mantle shield upon entering a new floor, which protects against one hit of damage.
+
+122
+Butter!
+Can't hold it!
+Using an active item will drop it onto a pedestal on the ground. Taking damage may result in dropping a passive item.
+
+123
+Filigree Feather
+Angelic Spoils!
+Angels drop items instead of key pieces when defeated.
+
+124
+Door Stop
+Hold the door!
+The last door Isaac went through stays open, allowing him to leave the room even if enemies are in it.
+
+125
+Extension Cord
+Charged friends
+Beams of yellow electricity flow between Isaac and his familiars, damaging any enemies between them.
+
+126
+Rotten Penny
+Wealth of flies
+Spawns a blue fly every time a coin is picked up.
+
+127
+Baby-Bender
+Feed them magic!
+Grants Isaac's familiars homing shots.
+
+128
+Finger Bone
+It looks brittle
+Grants a chance to gain a bone heart upon taking damage.

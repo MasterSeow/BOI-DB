@@ -1,0 +1,270 @@
+1
+Monstro
+
+2
+Gemini
+
+3
+Larry Jr.
+
+4
+Dingle
+
+5
+Gurglings
+
+6
+Steven
+
+7
+Pin
+
+8
+Widow
+
+9
+Blighted Ovum
+
+10
+Fistula
+
+11
+The Haunt
+
+12
+The Duke of Flies
+
+13
+Rag Man
+
+14
+Little Horn
+
+15
+Dangle
+
+16
+Turdlings
+
+17
+Chub
+
+18
+Gurdy Jr.
+
+19
+Gurdy
+
+20
+Mega Maw
+
+21
+C.H.A.D.
+
+22
+Mega Fatty
+
+23
+The Hollow
+
+24
+The Husk
+
+25
+Dark One
+
+26
+Polycephalus
+
+27
+The Frail
+
+28
+The Stain
+
+29
+The Forsaken
+
+30
+Carrion Queen
+
+31
+The Wretched
+
+32
+Peep
+
+33
+Big Horn
+
+34
+Rag Mega
+
+35
+The Cage
+
+36
+Loki
+
+37
+Monstro II
+
+38
+Gish
+
+39
+The Gate
+
+40
+The Adversary
+
+41
+The Bloat
+
+42
+Mask of Infamy
+
+43
+Brownie
+
+44
+Sisters Vis
+
+45
+Mr. Fred
+
+46
+Scolex
+
+47
+Mama Gurdy
+
+48
+Lokii
+
+49
+Blastocyst
+
+50
+The Matriarch
+
+51
+Teratoma
+
+52
+Daddy Long Legs
+
+53
+Triachnid
+
+54
+The Fallen
+
+55
+Famine
+
+56
+Pestilence
+
+57
+War
+
+58
+Death
+
+59
+Conquest
+
+60
+The Headless Horseman
+
+61
+Mom
+
+62
+Mom's Heart
+
+63
+It Lives
+
+64
+Satan
+
+65
+Isaac
+
+66
+???
+
+67
+The Lamb
+
+68
+Mega Satan
+
+69
+Hush
+
+70
+Ultra Greed
+
+71
+Ultra Greedier
+
+72
+Delirium
+
+MiniBoss
+73
+Envy
+
+74
+Gluttony
+
+75
+Wrath
+
+76
+Pride
+
+77
+Lust
+
+78
+Greed
+
+79
+Sloth
+
+80
+Super Envy
+
+81
+Super Gluttony
+
+82
+Super Wrath
+
+83
+Super Pride
+
+84
+Super Lust
+
+85
+Super Greed
+
+86
+Super Sloth
+
+87
+Ultra Pride
+
+88
+Krampus
+
+89
+Uriel
+
+90
+Gabriel

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_character"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i59"
+        android:text="characters" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_item"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i110"
+        android:text="item" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_itempool"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i159"
+        android:text="item pool" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_achievement"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i262"
+        android:text="achievements" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_trinket"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i158"
+        android:text="trinkets" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_boss"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i273"
+        android:text="bosses" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_cards"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i355"
+        android:text="cards and runes" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_monster"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i412"
+        android:text="monsters" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_pill"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i463"
+        android:text="pills" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="0"
+        android:background="@color/colorText" />
+
+    <Button
+        android:id="@+id/button_seed"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/i436"
+        android:text="seeds" />
+</LinearLayout>

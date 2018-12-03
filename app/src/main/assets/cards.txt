@@ -1,0 +1,269 @@
+0 - The Fool
+1
+Where journey begins
+Teleports you back to the starting room of a floor.
+
+I - The Magician
+2
+May you never miss your goal
+Grants homing tears for the current room.
+
+II - The High Priestess
+3
+Mother is watching you
+Mom's dismembered leg is called down to deal 300 damage to anything it stomps. It will always stomp on the enemy with the most health. If used in an empty room or during the fight with Mom, it will stomp Isaac instead.
+
+III - The Empress
+4
+May your rage bring power
+Triggers the Whore of Babylon effect.
+
+IV - The Emperor
+5
+Challenge me!
+Teleports you into the Boss Room of a floor.
+
+V - The Hierophant
+6
+Two prayers for the lost
+Spawns 2 soul hearts.
+
+VI - The Lovers
+7
+May you prosper and be in good health
+Drops 2 full red hearts. If used in a black heart or eternal heart-containing Super Secret Room, it will spawn those types of hearts instead.
+
+VII - The Chariot
+8
+May nothing stand before you
+Grants the temporary invulnerability effect of My Little Unicorn.
+
+VIII - Justice
+9
+May your future become balanced
+Spawns one of each consumable drop (a heart, a key, a bomb, and a coin).
+
+IX - The Hermit
+10
+May you see what life has to offer
+Teleports you to the shop. If there is no shop, this will act as a random teleport. If the shop has not yet been accessed, this card will unlock the door without requiring a key (as long as the player exits through the main entrance).
+
+X - Wheel of Fortune
+11
+Spin the wheel of destiny
+Spawns an arcade machine (Slot Machine or Fortune Teller).
+
+XI - Strength
+12
+May your power bring rage
+Upon use, increases all of Isaac's stats except tears and adds one (temporary) heart container for the current room.
+
+XII - The Hanged Man
+13
+May you find enlightenment
+Removes Isaac's body, allowing him to fly around for the duration of the room, similar to Transcendence.
+
+XIII - Death
+14
+Lay waste to all that oppose you
+Deals 40 damage to all enemies in the room.
+
+XIV - Temperance
+15
+May you be pure in heart
+Spawns a blood donation machine.
+
+XV - The Devil
+16
+Revel in the power of darkness
+Increases your damage by 2 until you leave the room (same effect as the Book of Belial).
+
+XVI - The Tower
+17
+Destruction brings creation
+Spawns 6 troll bombs randomly around the room.
+
+XVII - The Stars
+18
+May you find what you desire
+Teleports the player to the Treasure Room. If there is no Treasure Room, this will act as a random teleport. Randomly chooses a Treasure Room on Curse of the Labyrinth. If the Treasure Room has not yet been accessed, this card will unlock the door without requiring a key (as long as the player exits through the main entrance).
+
+XVIII - The Moon
+19
+May you find all you have lost
+Teleports the player to the Secret Room. This card will open one random wall once inside the Secret Room, so you can leave even if you don't have any bombs available.
+
+XIX - The Sun
+20
+May the light heal and enlighten you
+Restores full health, deals 100 damage to all enemies in the room, and reveals the map for the current floor, except the Super Secret Room.
+
+XX - Judgement
+21
+Judge lest ye be judged
+Spawns a Beggar.
+
+XXI - The World
+22
+Open your eyes and see
+Reveals the entire floor, except for the Super Secret Room. Has no effect if under the effect of Curse of the Lost or Amnesia.
+
+2 of Clubs
+23
+Item multiplier
+Doubles your bombs. If you have no bombs, gives you 2 instead.
+
+2 of Diamonds
+24
+Item multiplier
+Doubles your coins. If you have no coins, gives you 2 instead.
+
+2 of Spades
+25
+Item multiplier
+Doubles your keys. If you have no keys, gives you 2 instead.
+
+2 of Hearts
+26
+Item multiplier
+Doubles Isaac's current number of red hearts. Does not affect Eternal Hearts, Soul Hearts, or Black Hearts. Doesn't add new heart containers, just fills empty ones.
+
+Ace of Clubs
+27
+Convert all
+Turns all pickups and chests in the room into bombs.
+
+Ace of Diamonds
+28
+Convert all
+Turns all pickups and chests in the room into coins.
+
+Ace of Spades
+29
+Convert all
+Turns all pickups and chests in the room into keys.
+
+Ace of Hearts
+30
+Convert all
+Turns all pickups and chests in the room into random heart pickups.
+
+Joker
+31
+???
+Teleports you to the Devil Room or Angel Room.
+
+Chaos Card
+42
+???
+Throws the card to kill anything in its path. Opens normal doors.
+
+Huge Growth
+52
+Become immense!
+Makes Isaac large for the current room, increasing his range and damage.
+
+Ancient Recall
+53
+Draw 3 cards
+Spawns 3 random cards.
+
+Era Walk
+54
+Savor the moment
+For the current room, enemies are slowed, Isaac's speed is increased, and his shot speed is decreased.
+
+Credit Card
+43
+Charge it!
+Converts all items in the Shop or Devil Room into pickups or items on pedestals, allowing them to be picked up for free. This card's effect lasts for the entire floor, but only affects the room it was used in. Wasted if used outside the shop or the devil room. Allows devil room items to be obtained without affecting the chance of an angel room appearing.
+
+Rules Card
+44
+???
+Displays a cryptic statement on the screen, similar to a Fortune Teller. These messages (often) provide hints on bosses, bonus areas, etc.
+
+Suicide King
+46
+A true ending?
+Kills Isaac and spawns lots of pickups, items, and/or chests in the same room.
+
+? Card
+48
+Double active
+When used, copies the effect of Isaac's currently held activated collectible item.
+
+A Card Against Humanity
+45
+Something stinks...
+Covers the entire room with poop. The process is not instant, and the room will not get filled if you leave it before it's done filling.
+
+Get out of Jail Free Card
+47
+Open Sesame
+Upon use, opens all doors in the current room (including the golden door at The Chest / Dark Room), similar to Dad's Key.
+
+Holy Card
+51
+You feel protected
+Grants the Holy Mantle effect for the current room.
+
+Hagalaz
+32
+Destruction
+Destroys all breakable objects in the room. Does not affect Key Blocks.
+
+Jera
+33
+Abundance
+Clones all pickups and chests in a room (including shop pickups; the clones can then be picked up for free). Cloned chests will contain exactly the same type of items: if the original contains a pickup, so will the clone; the same is true for Collectibles. Cannot clone other Jera runes and trinkets.
+
+Ehwaz
+34
+Passage
+Creates a trapdoor leading to the next floor. Has an estimated 1/12 (8%) chance to spawn a door to a Crawl Space instead.
+
+Dagaz
+35
+Purity
+Removes any curses from the current floor and grants a soul heart. (This will not remove Curse of the Labyrinth.)
+
+Ansuz
+36
+Vision
+Reveals the whole map, including the Secret Room and the Super Secret Room.
+
+Perthro
+37
+Change
+Rerolls all pedestal items in the room. (This is the same effect as The D6.)
+
+Berkano
+38
+Companionship
+Summons 3 friendly blue flies and 3 friendly blue spiders.
+
+Algiz
+39
+Resistance
+Grants a shield which lasts for 30 seconds.
+
+Blank Rune
+40
+???
+Grants a random rune effect. Has a 25% chance to spawn another Blank Rune upon use.
+
+Black Rune
+41
+Void
+Deals 40 damage to all enemies in the room. Consumes all pickups in the room and turns them into blue flies and spiders. Consumes all pedestal items in the room and turns them into random stat upgrades.
+
+Dice Shard
+49
+D6 + D20
+Upon use, activates the effects of the D6 and the D20 at the same time.
+
+Emergency Contact
+50
+Help from above
+When used, will cause two Mom's Hands to come down and grab two random enemies.

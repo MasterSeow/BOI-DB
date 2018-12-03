@@ -1,0 +1,795 @@
+1
+Black Fly
+Tiny black fly with neutral AI. Does not hurt Isaac upon touch.
+
+2
+Attack Fly
+Red fly that follows Isaac and deals touch damage.
+
+3
+Large Attack Fly
+Red fly that follows Isaac and deals touch damage.
+
+4
+Ring Fly
+Gathers with any other Ring Flies in the room. These flies orbit around themselves, while following Isaac.
+
+5
+Dart Fly
+Added in Afterbirth	Flies towards Isaac and attempts to mimic his movements. Deals contact damage.
+
+6
+Swarm Fly
+Added in Afterbirth	Follows Isaac in large groups and deals contact damage.
+
+7
+Hush Fly
+Added in Afterbirth	Gathers with other Hush Flies and flies towards Isaac in certain patterns. Can also orbit Hush.
+
+8
+Moter
+Follows Isaac, similar to Attack Flies. Splits into 2 Attack Flies upon death.
+
+9
+Eternal Fly
+Invulnerable fly that circles corny poop and various monsters. Turns into a vulnerable Attack Fly after the object or monster it circles is destroyed.
+
+10
+Pooter
+Slow-moving fly that occasionally fires single blood shots at Isaac. Does not deal touch damage.
+
+11
+Super Pooter
+An alternate version of the Pooter that fires 2 shots in a V-formation and does not deal touch damage.
+
+12
+Boom Fly
+Flies around the room diagonally, dealing touch damage and exploding upon death.
+
+13
+Red Boom Fly
+Flies around the room diagonally, dealing touch damage and exploding into 6 blood shots upon death.
+
+14
+Drowned Boom Fly
+Added in Afterbirth	Flies around the room diagonally, dealing touch damage. Upon death, explodes, and fires four blood shots in the cardinal directions. High chance to spawn a Drowned Charger upon death.
+
+15
+Level 2 Fly
+Flies toward Isaac erratically, dealing touch damage.
+
+16
+Full Fly
+Flies toward Isaac erratically, dealing touch damage. Splits into 6 directional shots upon death.
+
+17
+Sucker
+Flies slowly towards Isaac, exploding into 4 shots in the cardinal directions upon death.
+
+18
+Spit
+Flies slowly towards Isaac, firing an Ipecac shot towards Isaac upon death.
+
+19
+Soul Sucker
+Added in Afterbirth †	Flies slowly towards Isaac. Spawns a vortex that fires four Brimstone beams in the cardinal directions upon death.
+
+20
+Dip
+Slowly dashes in random directions, dealing contact damage.
+
+21
+Corn
+Added in Afterbirth	Quickly dashes in random directions, dealing contact damage.
+
+22
+Brownie Corn
+Added in Afterbirth	Quickly dashes in random directions, dealing contact damage.
+
+23
+Squirt
+Dashes towards the player and deals contact damage. Spawns 2 Dips upon death.
+
+24
+Dank Squirt
+Added in Afterbirth	Dashes towards the player and deals contact damage. Spawns 2 Clots upon death.
+
+25
+Dinga
+Slowly moves around the room, occasionally hopping, spawning Dips or firing 8 brown shots in all directions. Spawns 2 Squirts on death.
+
+26
+Corn Mine
+Added in Afterbirth	Goes off when destroyed or after some time, then releases a cloud of poisonous gas and fires corny shots in eight directions.
+
+27
+Spider
+Erratically moves towards Isaac and deals touch damage.
+
+28
+Big Spider
+Erratically moves towards Isaac and deals touch damage. Splits into two Spiders upon death.
+
+29
+Trite
+Quickly leaps towards Isaac and deals touch damage.
+
+30
+Ragling
+Quickly leaps towards Isaac and deals touch damage. Randomly shoots two purple shots that orbit around it.
+
+31
+Blister
+Added in Afterbirth †	Slowly hops towards Isaac, occasionally spawning black smoke balls. Spawns a Sack upon death.
+
+32
+Level 2 Spider
+Crawls around the room erratically, following Isaac and dealing touch damage. Can jump small distances.
+
+33
+Ticking Spider
+Crawls around the room erratically, following Isaac and dealing touch damage. Can jump small distances. Explodes upon death.
+
+34
+Baby Long Legs
+Runs away from Isaac and frequently spawns Spiders.
+
+35
+Small Baby Long Legs
+Runs away from Isaac and occasionally spawns Sacks.
+
+36
+Crazy Long Legs
+Chases Isaac, dealing touch damage. Occasionally stops to spit blood shots in 8 directions.
+
+37
+Small Crazy Long Legs
+Chases Isaac, dealing touch damage. Occasionally stops to spit blood shots diagonally in 4 directions.
+
+38
+Wall Creep
+Crawls along walls to try to line up with Isaac and shoots three blood shots in a line.
+
+39
+Blind Creep
+Randomly crawls along walls and shoots three spread blood shots.
+
+40
+Rage Creep
+Slowly crawls along walls to try to line up with Isaac and shoots a Brimstone laser.
+
+41
+The Thing
+Added in Afterbirth †	Crawls along a wall and attempts to line up with Isaac, then spits a line of damaging red creep.
+
+42
+Boil
+Stationary enemy that decreases in size when hit, but regenerates to its full size until fully destroyed. Fires multiple short-ranged blood projectiles in random directions when fully swollen.
+
+43
+Gut
+Stationary enemy that decreases in size when hit, but regenerates to its full size until fully destroyed. Fires Ipecac shots in random directions when fully swollen.
+
+44
+Sack
+Stationary enemy that decreases in size when hit, but regenerates to its full size until fully destroyed. Occasionally spawns Spiders when fully swollen.
+
+45
+Gush
+Added in Afterbirth †	Stationary, harmless enemy that continually creates slowing black creep.
+
+46
+Blue Boil
+Added in Afterbirth	Stationary enemy that decreases in size when hit, but regenerates to its full size until fully destroyed. Fires 1-3 blood shots towards Isaac when fully swollen.
+
+47
+Walking Boil
+Does not shrink or regenerate. Walks around aimlessly and fires multiple short-ranged blood projectiles in random directions.
+
+48
+Walking Gut
+Does not shrink or regenerate. Walks around aimlessly and fires Ipecac shots in random directions.
+
+49
+Walking Sack
+Does not shrink or regenerate. Walks around aimlessly and occasionally spawns Spiders.
+
+50
+Round Worm
+Pops out of the ground in random locations and spits a blood shot at Isaac if he is in sight.
+
+51
+Nightcrawler
+Pops out of the ground in random locations and fires four short-range shots that spiral outwards if Isaac is in sight.
+
+52
+Tube Worm
+Added in Afterbirth †	Pops out of the ground in random locations and fires a long-range spray of arcing shots.
+
+53
+Roundy
+Added in Afterbirth	Pops out of the ground in random locations, creating a small rock wave. Fires an explosive Ipecac shot at Isaac if he is in sight.
+
+54
+Ulcer
+Added in Afterbirth	Pops out of the ground in random locations and spawns a Dart Fly if Isaac is in sight. Fires a blood shot after spawning 6 Dart Flies.
+
+55
+Mulligan
+Walks around the room, avoiding Isaac. Upon death, spawns several flies, which can be Black Flies, Attack Flies, or Pooters. Can suicide to explode and launch projectiles in the four ordinal directions while still releasing flies.
+
+56
+Mulligoon
+Walks around the room, avoiding Isaac. Upon death, spawns a Troll Bomb and fires four shots in the ordinal directions. Can suicide to explode, spawn a Troll bomb, and launch projectiles in eight directions.
+
+57
+Mulliboom
+Chases Isaac and explodes upon death or upon touching Isaac. The explosion deals a half-heart of damage instead of the regular full heart.
+
+58
+Hive
+Walks around the room, avoiding Isaac while spawning Attack Flies. Spawns a large number of flies upon death, which can be Black Flies, Attack Flies, Pooters, or Fat Flies.
+
+59
+Nest
+Walks around the room, avoiding Isaac while spawning Spiders. Spawns a Big Spider or a Trite upon death.
+
+60
+Drowned Hive
+Added in Afterbirth	Walks around the room, avoiding Isaac while spawning Drowned Chargers. Spawns a Drowned Charger upon death.
+
+61
+Leper
+Added in Afterbirth †	Walks around the room, avoiding Isaac. Releases a Leper Flesh for every 15 damage taken. After being reduced to 15 health, starts chasing Isaac and leaves damaging red creep. Spawns a Leper head chunk and Gusher upon death.
+
+62
+Leper Flesh
+Added in Afterbirth †	Moves erratically and chases Isaac. Fires a blood shot at Isaac upon death.
+
+63
+Swarmer
+Slowly floats around the room, spawning several Attack Flies. Spawns Pooters upon taking damage. Spawns a Boom Fly upon death.
+
+64
+Dukie
+Added in Afterbirth	Flies around the room diagonally, occasionally spitting out a Dart Fly.
+
+65
+Hopper
+Slowly hops around the room, dealing touch damage. Can turn into a Flaming Hopper by jumping into fire.
+
+66
+Flaming Hopper
+Quickly hops around the room, dealing touch damage. Covers a larger distance than the regular Hopper.
+
+67
+Leaper
+Hops around the room, dealing touch damage. Occasionally jumps high into the air, dropping down onto Isaac's position while firing 4 blood shots in the cardinal directions.
+
+68
+Ministro
+Added in Afterbirth †	Hops towards Isaac, occasionally spitting out a cluster of disorganized shots.
+
+69
+Pacer
+Walks aimlessly around the room.
+
+70
+Gusher
+Walks aimlessly around the room, occasionally firing short-ranged blood shots.
+
+71
+Black Globin's Head
+Added in Afterbirth	Slides towards Isaac, leaving a trail of damaging red creep.
+
+72
+Black Globin's Body
+Added in Afterbirth	Walks aimlessly around the room, occasionally spawning spiders.
+
+73
+Gaper
+Walks towards Isaac, dealing contact damage. Usually turns into a Pacer or a Gusher upon death.
+
+74
+Frowning Gaper
+Walks towards Isaac, dealing contact damage. Upon getting near Isaac, it will open its eyes and pursue Isaac faster. Usually turns into a Pacer or a Gusher upon death.
+
+75
+Flaming Gaper
+Added in Afterbirth	Walks towards Isaac, dealing contact damage. Usually turns into a Pacer or a Gusher upon death.
+
+76
+Cyclopia
+Added in Afterbirth	Walks towards Isaac, dealing contact damage and leaving behind a trail of damaging red creep. Occasionally shoots a blood shot towards Isaac.
+
+77
+Blue Gaper
+Added in Afterbirth	Walks towards Isaac, dealing contact damage.
+
+78
+Greed Gaper
+Added in Afterbirth	Walks towards Isaac, dealing contact damage.
+
+79
+Gurgle
+Walks towards Isaac, firing Ipecac shots at him. Can turn into a Splasher upon death.
+
+80
+Splasher
+Walks aimlessly around the room, firing Ipecac shots in random directions.
+
+81
+Skinny
+Slowly walks towards Isaac, leaving short-lasting red creep behind itself.
+
+82
+Rotty
+Slowly walks towards Isaac, leaving short-lasting red creep behind itself. Spawns a Bony or two Attack Flies upon death.
+
+83
+Crispy
+Added in Afterbirth †	Slowly walks towards Isaac, but increases in speed as they take damage. Constantly passively takes damage.
+
+84
+Mr. Maw
+Walks towards Isaac and attacks by launching its head towards Isaac. Turns into a Maw or Gusher upon death depending on the killed body segment.
+
+85
+Mr. Red Maw
+Added in Afterbirth †	Walks towards Isaac and attacks by launching its head towards Isaac. Turns into a Red Maw or Gusher upon death depending on the killed body segment. Occasionally separates at will.
+
+86
+Horf
+Stationary enemy that fires a medium ranged blood shot at Isaac when he gets in range of them.
+
+87
+Psychic Horf
+Stationary enemy that fires a homing shot at Isaac when he gets in range of them.
+
+88
+Maw
+Slowly floats towards Isaac, firing blood shots when Isaac is in range of them.
+
+89
+Red Maw
+Floats towards Isaac and explodes into 4 blood shots in the cardinal directions upon death.
+
+90
+Psychic Maw
+Slowly floats towards Isaac, firing homing shots at Isaac when he is in range of them. Spawns with an Eternal Fly orbiting around it.
+
+91
+Bony
+Wanders around the room and throws a bone at Isaac when he is in sight.
+
+92
+Black Bony
+Added in Afterbirth	Wanders around the room and throws three bones in a row at Isaac when he is in sight. Explodes upon death.
+
+93
+Death's Head
+Invulnerable enemy that moves diagonally around the room, dealing contact damage. Dies when the room is cleared.
+
+94
+Dank Death's Head
+Added in Afterbirth	Moves diagonally around the room, dealing contact damage. Needs to be killed to complete the room.
+
+95
+Flesh Death's Head
+Added in Afterbirth	Moves diagonally around the room, dealing contact damage. Explodes into 6 blood shots in all directions upon death. Can be killed, but also dies when the room is cleared.
+
+96
+One Tooth
+Follows Isaac and periodically dashes towards Isaac when it gets close. Deals contact damage.
+
+97
+Fat Bat
+Added in Afterbirth	Slowly flies towards Isaac. Shoots when Isaac aligns diagonally with it and will actively try to avoid Isaac's shots.
+
+98
+Lil' Haunt
+Follows Isaac erratically and occasionally shoots blood shots toward Isaac's destination, predicting his movements.
+
+99
+Wizoob
+Disappears, then appears near Isaac and spits a cluster of spectral tears at him.
+
+100
+Red Ghost
+Added in Afterbirth	Disappears, then reappears near Isaac and fires a brimstone laser.
+
+101
+Fatty
+Slowly walks towards Isaac. Occasionally farts, which pushes Isaac and adjacent enemies away.
+
+102
+Flaming Fatty
+Added in Afterbirth	Slowly walks towards Isaac. Occasionally farts, which pushes Isaac and adjacent enemies away. Has a chance to leave behind a damaging flame upon death.
+
+103
+Stoney
+Added in Afterbirth †	Chases Isaac and blocks tears, but does not deal contact damage. Temporarily pauses in exhaustion after a certain amount of time. Invulnerable; dies when the room is cleared.
+
+104
+Cross Stoney
+Added in Afterbirth †	Chases Isaac and shoots 4 tears vertically and diagonally like a Cross Grimace. Dies when the room is cleared.
+
+105
+Conjoined Fatty
+Added in Afterbirth	Slowly walks towards Isaac. Occasionally pauses to fart out a line of damaging green creep towards Isaac. Chance to turn into a regular Fatty upon death.
+
+106
+Blue Conjoined Fatty
+Added in Afterbirth	Slowly walks towards Isaac and occasionally farts out a homing Ipecac shot at Isaac.
+
+107
+Pale Fatty
+Slowly walks towards Isaac. Occasionally farts and shoots blood shots in 6 directions. Can turn into a Blubber upon death.
+
+108
+Fat Sack
+Slowly walks towards Isaac. Occasionally leaps off-screen and attempts to land on Isaac, leaving a puddle of creep and shooting blood shots in 6 directions where it lands. Can turn into a Blubber upon death.
+
+109
+Blubber
+Walks around aimlessly and randomly spews blood around itself. Can turn into a Half Sack when killed.
+
+110
+Half Sack
+Wanders around aimlessly and leaves a trail of red creep.
+
+111
+Globin
+Chases Isaac, dealing a full heart of contact damage. Upon taking enough damage, it collapses into a pile of goo, which can be killed. Will regenerate after a short period of time if not killed quickly.
+
+112
+Gazing Globin
+Quickly chases Isaac, dealing a full heart of contact damage. Upon taking enough damage, it collapses into a pile of goo, which will slide away from Isaac and can be killed. Will regenerate after a short period of time if not killed quickly.
+
+113
+Dank Globin
+Added in Afterbirth	Chases Isaac, dealing a full heart of contact damage. Upon taking enough damage, it collapses into a pile of goo, spawns a spider, and leaves a puddle of slowing black creep. Will regenerate after a short period of time if not killed quickly.
+
+114
+Black Globin
+Added in Afterbirth	Chases Isaac, dealing a full heart of contact damage and spawning spiders whenever it takes damage. Spawns a spider, Black Globin's Head, and Black Globin's Body upon death.
+
+115
+Knight
+Moves erratically around the room and charges toward Isaac when in line of sight. Can only be damaged from behind.
+
+116
+Selfless Knight
+Moves erratically around the room and charges toward Isaac very quickly when in line of sight. Can only be damaged from behind.
+
+117
+Floating Knight
+Behaves like the Knight but slower, and can fly over all obstacles.
+
+118
+Bone Knight
+Added in Afterbirth	Moves erratically around the room, charges toward Isaac when in line of sight, and leaves behind a trail of damaging red creep. Can only be damaged from behind.
+
+119
+Mask + Heart
+The Mask is invulnerable and moves around erratically, charging at Isaac when he lines up with it. The Heart avoids Isaac and fires 4 blood shots in the cardinal directions when Isaac gets near. Killing the Heart will automatically kill the Mask.
+
+120
+Clotty
+Randomly wanders around the room, firing 4 blood shots in the cardinal directions.
+
+121
+Clot
+Randomly wanders around the room, firing 4 tar shots in the ordinal directions.
+
+122
+I.Blob
+Randomly wanders around the room, firing 8 shots in all directions.
+
+123
+Mega Clotty
+Added in Afterbirth	Slowly moves around the room, occasionally hopping and firing 6 blood shots in all directions. Splits into two Clotties upon death.
+
+124
+Mom's Hand
+Falls from the ceiling. If it lands on Isaac, it deals damage and teleports the player back to the spawn room of the floor. Entering a room containing Mom's Hand will warn the player with Mom's laugh.
+
+125
+Mom's Dead Hand
+Added in Afterbirth	Falls from the ceiling. If it lands on Isaac, it deals damage and teleports the player back to the spawn room of the floor. If it doesn't land on Isaac, it spawns several rock waves that travel outwards. Spawns several spiders upon death. Entering a room containing Mom's Dead Hand will warn the player with Mom's laugh.
+
+126
+Maggot
+Aimlessly moves around the room, dealing contact damage.
+
+127
+Charger
+Slowly moves around the room, charging at Isaac when he gets in its line of sight.
+
+128
+Drowned Charger
+Added in Afterbirth	Slowly moves around the room, charging at Isaac when he gets in its line of sight. Explodes into four blood shots in the ordinal directions upon death.
+
+129
+Dank Charger
+Added in Afterbirth †	Slowly moves around the room, charging at Isaac very rapidly when he gets in its line of sight, leaving a trail of slowing black creep.
+
+130
+My Shadow
+Added in Afterbirth	Slowly moves around the room, charging at enemies when they get in its line of sight.
+
+131
+Spitty
+Slowly moves around the room, occasionally firing a single blood shot forwards.
+
+132
+Conjoined Spitty
+Slowly moves around the room, occasionally firing blood shots from both ends of its body.
+
+133
+Tumor
+Moves around the room diagonally, occasionally firing 6 shots. Fires more often upon getting damaged.
+
+134
+Psy Tumor
+Moves around the room diagonally, occasionally firing 6 homing shots. Fires more often upon getting damaged.
+
+135
+Camillo Jr.
+Moves around the room diagonally, occasionally firing Technology lasers towards Isaac. Fires more often upon getting damaged.
+
+136
+Brain
+Slowly crawls around the room, leaving a trail of red creep.
+
+137
+Poison Mind
+Added in Afterbirth †	Slowly crawls around the room diagonally, leaving a trail of green creep.
+
+138
+MemBrain
+Slowly moves around the room, occasionally hopping and firing 8 large blood shots in all directions. Splits into 2 Brains upon death.
+
+139
+Guts
+Attaches itself to a wall or obstacle and rolls around it.
+
+140
+Scarred Guts
+Added in Afterbirth	Attaches itself to a wall or obstacle and rolls around it, leaving a trail of damaging red creep.
+
+141
+Mama Guts
+Slowly moves around the room, occasionally hopping and firing 8 large blood shots in all directions. Splits into 2 Guts upon death.
+
+142
+Buttlicker
+Attaches itself to other Buttlickers and erratically moves around the room, similar to Larry Jr..
+
+143
+Grub
+Erratically moves around the room like Larry Jr. and charges at Isaac when he gets within its line of sight. Spawns Maggots, Chargers, or Spitties upon death, one for each of its segments.
+
+144
+Para-Bite
+Moves towards Isaac, dealing contact damage. Can burrow underground and reappear elsewhere.
+
+145
+Scarred Para-Bite
+Added in Afterbirth	Moves towards Isaac, dealing contact damage and firing short-range blood shots. Can burrow underground and reappear elsewhere.
+
+146
+Cod Worm
+Stationary enemy that hides in a shell and spews blood if shot at. Only vulnerable when it pops its head out.
+
+147
+Fred
+Hops out of the ground and burrows elsewhere, firing 4 blood shots in the ordinal directions. Occasionally fires red Ipecac shots at Isaac.
+
+148
+Lump
+Fires 3 spread blood shots at Isaac when he gets in its line of sight. Will burrow underground and reappear elsewhere after firing.
+
+149
+Tar Boy
+Added in Afterbirth †	Pops out of the ground in random locations and fires a short-ranged spray of shots that leave behind slowing black creep. If Isaac stands in the creep, the Tar Boy can fire shots straight upwards out of the creep underneath Isaac.
+
+150
+Leech
+Quickly charges towards Isaac when he gets in its line of sight.
+
+151
+Kamikaze Leech
+Quickly charges towards Isaac when he gets in its line of sight. Explodes upon death.
+
+152
+Holy Leech
+Quickly charges towards Isaac when he gets in its line of sight. Explodes upon death. Spawns with an Eternal Fly circling it, which instantly dies when the Holy Leech explodes.
+
+153
+Host
+Stationary enemy that is normally invulnerable. Raises its head up when Isaac gets close, revealing a fleshy stem that can be damaged. Upon raising its head, it will fire 3 blood shots and lower its head again.
+
+154
+Red Host
+Stationary enemy that can be damaged even when its head is lowered. Fire 5 spread blood shots when it raises its head.
+
+155
+Mobile Host
+Acts like the Host, but follows Isaac and deals contact damage.
+
+156
+Flesh Mobile Host
+Acts like the Red Host, but follows Isaac and deals contact damage.
+
+157
+Mushroom
+Added in Afterbirth †	Stationary enemy that occasionally pops up and fires four shots in the cardinal or diagonal directions. Takes less damage while its head is down.
+
+158
+Meatball
+Added in Afterbirth	Slides around the room, occasionally stopping to spew a fountain of short-range blood shots in all directions or to spit a line of damaging red creep. Spawns a Host upon death.
+
+159
+Nerve Ending
+Static enemy which acts as a meat shield.
+
+160
+Nerve Ending 2
+Added in Afterbirth †	Static enemy which whips at Isaac if he gets too close.
+
+161
+Vis
+Randomly wanders around the room. Pauses to charge and fire a Brimstone laser when Isaac gets in its line of sight.
+
+162
+Double Vis
+Randomly wanders around the room. Pauses to charge and fire a Brimstone laser which fires from both sides when Isaac gets in its line of sight.
+
+163
+Scarred Double Vis
+Added in Afterbirth	Randomly wanders around the room. Pauses to charge and fire a Brimstone laser which fires from all four cardinal sides when Isaac gets in its line of sight.
+
+164
+Chubber
+Randomly wanders around the room. Pauses to fire a Charger that deals one heart of damage when Isaac gets in its line of sight. The Charger is invulnerable, blocks Isaac's tears, has limited range, and flies back to the Chubber.
+
+165
+Wall Hugger
+Moves around the room like Guts, damaging Isaac by contact. Cannot be destroyed.
+
+166
+Slide
+Quickly slides towards Isaac when he gets in its line of sight, then moves slowly back to its original position. Cannot be destroyed.
+
+167
+Poky
+Slides around the room aimlessly, damaging Isaac by contact. Disappears when the room is cleared.
+
+168
+Eye
+Slowly turns towards Isaac and fires a laser at Isaac if he stands still or is too slow.
+
+169
+Bloodshot Eye
+Slowly turns towards Isaac and fires a Brimstone beam at Isaac if he stands still or is too slow.
+
+170
+Dople
+Mirrors Isaac's movements and fires blood shots at the same time as Isaac. Can be damaged by spikes.
+
+171
+Evil Twin
+Mirrors Isaac's movements and fires three spread blood shots at the same time as Isaac. Can fly over obstacles.
+
+172
+Embryo
+Aimlessly hops around the room, dealing contact damage.
+
+173
+Baby
+Slowly floats towards Isaac and fires blood shots. Occasionally teleports and reappears elsewhere.
+
+174
+Angelic Baby
+Slowly floats towards Isaac and fires three spread shots. Occasionally teleports and reappears elsewhere.
+
+175
+Imp
+Added in Afterbirth	Slowly drifts towards Isaac, frequently firing 5 blood shots in quick succession towards Isaac. Tries to avoid Isaac's shots and occasionally teleports and reappears elsewhere.
+
+176
+Homunculus
+Starts attached to the wall. After a while, it detaches, shooting 6 blood shots and chasing Isaac. If it dies while still attached to the wall, it leaves a puddle of creep.
+
+177
+Begotten
+Starts attached to the wall. After a while, it detaches, turning the room dark and chasing Isaac. Phases in and out of visibility when detached.
+
+178
+Null
+Act like faster Frowning Gapers. When Isaac gets near, they phase in and out of visibility and pursue Isaac faster.
+
+179
+Swinger
+Slowly moves towards Isaac as its head swings around its base. Upon death, spawns a Maw or a Globin depending on which part is killed.
+
+180
+Keeper
+Hops around the room, firing 2 blood shots in a V formation at Isaac. Upon damaging Isaac, Isaac drops 2 coins on the ground but loses 3.
+
+181
+Hanger
+Floats around the room, firing 3 spread blood shots at Isaac. Upon damaging Isaac, Isaac drops 2 coins on the ground but loses 3. Spawns with an eternal fly circling around it.
+
+182
+Mr. Mine
+Added in Afterbirth †	Can only appear in pits. Attempts to launch itself at Isaac if he comes near. Occasionally burrows and pops up in another pit, and fires six shots in all directions upon death.
+
+183
+Fistuloid
+Added in Afterbirth †	Flies towards Isaac in an erratic waving motion, periodically firing a blood shot towards Isaac that also knocks itself back. Upon death, fires a worm that flies off screen.
+
+184
+Stone Grimace
+Stationary and invulnerable monster that occasionally fires blood shots at Isaac. Stops firing when room is cleared.
+
+185
+Vomit Grimace
+Stationary and invulnerable monster that occasionally fires an Ipecac shot at Isaac. Stops firing when room is cleared.
+
+186
+Gaping Maw
+Stationary and invulnerable monster that sucks Isaac towards it, along with Isaac's tears and enemy projectiles.
+
+187
+Broken Gaping Maw
+Stationary and invulnerable monster that sucks Isaac towards it, along with Isaac's tears and enemy projectiles. Alternates between active and inactive every couple of seconds.
+
+188
+Constant Stone Shooter
+Stationary and invulnerable monster that continuously fires shots in a single direction.
+
+189
+Cross Grimace
+Added in Afterbirth †	Stationary and invulnerable monster that continuously fires shots in four directions.
+
+190
+Stone Eye
+Stationary and invulnerable monster that constantly rotates and fires a flickering Technology laser. Stops firing when the room is cleared.
+
+191
+Brimstone Grimace
+Stationary and invulnerable monster that fires Brimstone beams in a specific direction.
+
+192
+Oob
+When Isaac lines up with it horizontally, it charges across the room once. When Isaac is not horizontal to it, it spawns Brains.
+
+193
+Black Maw
+When Isaac lines up with it horizontally, it charges in his direction and then doubles back, charging back to its original position. When Isaac is not horizontal to it, it spawns Leeches. Explodes when it dies.
+
+194
+Gurglings
+Charges towards Isaac when he lines up with them, leaving a trail of creep and shooting 6 blood shots.
+
+195
+Ultra Greed Coin (Spinner)
+Added in Afterbirth	Spins around the room and deal contact damage.
+
+196
+Ultra Greed Coin (Key)
+Added in Afterbirth	Spins on itself and opens a golden door around the room if not destroyed.
+
+197
+Ultra Greed Coin (Bomb)
+Added in Afterbirth	Spins on itself and explodes with a large radius if not destroyed.
+
+198
+Ultra Greed Coin (Heart)
+Added in Afterbirth	Spins on itself and heals Ultra Greed for 13.125 HP each if not destroyed.
+
+199
+Portal
+Added in Afterbirth †	Spawns various enemies from the current floor until it either vanishes or is killed.

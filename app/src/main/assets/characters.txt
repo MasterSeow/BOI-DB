@@ -1,0 +1,59 @@
+1
+Isaac
+unlocked by default
+
+2
+Magdalene
+Have 7 or more heart containers at one time
+
+3
+Cain
+Hold 55 coins at one time
+
+4
+Judas
+Defeat Satan for the 1st time
+
+5
+???
+Defeat Mom's Heart 10 times
+
+6
+Eve
+Don't pick up any hearts for 2 floors in a row
+
+7
+Samson
+Complete 2 floors in a row without taking damage
+
+8
+Azazel
+Make 3 deals with the devil in one run
+
+9
+Lazarus
+Have 4 or more soul hearts at one time
+
+10
+Eden
+Complete chapter 4 for the 1st time
+
+11
+The Lost
+Die in a Sacrifice Room while holding Missing Poster
+
+12
+Lilith
+Defeat Ultra Greed as Azazel
+
+13
+Keeper
+Donate 1000 coins to the Greed Machine
+
+14
+Apollyon
+Defeat Mega Satan for the 1st time
+
+15
+The Forgotten
+It's complicated
